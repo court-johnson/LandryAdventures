@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smallblog\n"
+"POT-Creation-Date: 2016-02-28 00:31+0100\n"
+"PO-Revision-Date: 2016-02-28 00:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:5
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: archive.php:16
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag: %s"
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monatliche Archive: %s"
+
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:22
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jährliche Archive: %s"
+
+#: archive.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:25
+msgid "Archives"
+msgstr "Archive"
+
+#: author.php:16
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: category.php:14
+#, php-format
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ein Gedanke zu „%s“"
+
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "<span class=\"number\">%1$s</span> thought on &ldquo;%2$s&rdquo;"
+msgid_plural ""
+"<span class=\"number\">%1$s</span> thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "<span class=\"number\">%1$s</span> Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "<span class=\"number\">%1$s</span> Gedanken zu &ldquo;%2$ss&rdquo;"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Kommentar Navigation"
+
+#: comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Kommentarfunktion ist geschlossen."
+
+#: footer.php:10
+#, php-format
+msgid "Footer Logo: %s"
+msgstr "Fusszeilen Logo: %s"
+
+#: footer.php:12 inc/customize/ods_custom_theme.php:74
+msgid "Created by Monkey Themes"
+msgstr "Created by Monkey Themes"
+
+#: footer.php:47 footer.php:49
+msgid "To top"
+msgstr "Nach oben"
+
+#: header.php:30 header.php:33
+msgid "Search"
+msgstr "Suche"
+
+#: header.php:60 header.php:62
+msgid "Menu"
+msgstr "Menü"
+
+#: inc/customize/ods_custom_footer.php:32
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: inc/customize/ods_custom_footer.php:49
+msgid "Image"
+msgstr "Bild"
+
+#: inc/customize/ods_custom_footer.php:65
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/customize/ods_custom_list.php:31
+msgid "Customize List "
+msgstr "Anpassen der Liste"
+
+#: inc/customize/ods_custom_list.php:47
+msgid "Minimizes the list to only the title and the basic information."
+msgstr "Minimiert die Liste nur den Titel und die grundlegenden Informationen."
+
+#: inc/customize/ods_custom_list.php:64
+msgid "Ellipsis"
+msgstr "Auslassungspunkte"
+
+#: inc/customize/ods_custom_social_media.php:30
+msgid "Social Media (Links)"
+msgstr "Social-Media-Links"
+
+#: inc/customize/ods_custom_social_media.php:31
+msgid ""
+"Enter your social media links here. If the field is empty the button on "
+"footer will not be visible."
+msgstr ""
+"Geben Sie hier Ihre Social-Media-Links. Wenn das Feld leer ist der Knopf auf "
+"footer nicht sichtbar sein wird."
+
+#: inc/customize/ods_custom_theme.php:36
+msgid "Theme options"
+msgstr "Theme-Einstellungen"
+
+#: inc/customize/ods_custom_theme.php:43
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customize/ods_custom_theme.php:66
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customize/ods_custom_theme.php:84
+msgid "Space dedicated to copyright positioned in the page footer."
+msgstr "Platz zum Urheberrecht in der Fußleiste positioniert gewidmet. "
+
+#: inc/functions/ods_functions.php:120 single.php:41
+msgid "Previous"
+msgstr "Zurück"
+
+#: inc/functions/ods_functions.php:121 single.php:38
+msgid "Next"
+msgstr "Weiter"
+
+#: inc/functions/ods_functions.php:168
+#, php-format
+msgid "on %1$s"
+msgstr "am %1$s"
+
+#: inc/functions/ods_functions.php:170
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: inc/functions/ods_functions.php:176
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Freigabe."
+
+#: inc/ods_localize_script.php:10
+msgid "Back"
+msgstr "Zurück"
+
+#: inc/ods_setup.php:90
+msgid "Header Menu"
+msgstr "Header Menü"
+
+#: inc/ods_setup.php:91
+msgid "Footer Menu"
+msgstr "Menü Footer"
+
+#: inc/register/ods_widgets.php:32 sidebar.php:11
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: inc/register/ods_widgets.php:34
+msgid ""
+"These widgets appear on the sidebar of the categories, archive, author list "
+"articles."
+msgstr ""
+"Diese Widgets erscheinen in der Seitenleiste der Kategorien, Archiv, Autor "
+"Artikel auflisten."
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: single.php:33
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">Veröffentlicht in</span><span class=\"post-title\">"
+"%title</span>"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Nächster Beitrag:"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Vorhergehender Beitrag:"
+
+#: tag.php:15
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Schlagwort-Archiv: %s"
+
+#: template-parts/content-audio.php:36 template-parts/content-gallery.php:36
+#: template-parts/content-image.php:26 template-parts/content-quote.php:37
+#: template-parts/content-video.php:41
+msgid "Tags:"
+msgstr "Schlagworter"
+
+#: template-parts/content-infobar.php:14
+#, php-format
+msgid "by %s "
+msgstr "von %s"
+
+#: template-parts/content-none.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit, um Deinen ersten Artikel zu veröffentlichen? <a href=‚%s‘>Starte "
+"hier</a>."
+
+#: template-parts/content-none.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, aber zu deinen Suchbegriffen wurde nichts passendes "
+"gefunden. Bitte versuche es mit anderen Stichworten noch einmal."
+
+#: template-parts/content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht "
+"hast. Möglicherweise hilft eine Suche."
+
+#: template-parts/mobile-navigation.php:9
+msgid "Mobile Navigation"
+msgstr "Handy-Navigation"
+
+#: template-parts/mobile-navigation.php:11
+msgid "Navigation"
+msgstr "Navigation"
+
+#: template-parts/search-dialog.php:13
+msgid "Search Anything"
+msgstr "Suche etwas"
+
+#: template-parts/search-dialog.php:18 template-parts/search-dialog.php:20
+msgid "Close"
+msgstr "Schliessen"
+
+#. Theme Name of the plugin/theme
+msgid "Smallblog"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://smallblog.monkey-themes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A new and modern WordPress blog theme. Articles, pages, comments, menus and "
+"much more are part of this theme. Crafted with love by Monkey Themes."
+msgstr ""
+"Ein neues und modernes-WordPress-Blog Theme. Artikel, Seiten, Kommentare, "
+"Menüs und vieles sind mehr Teil dieses Themas. Handarbeit mit Liebe von "
+"Monkey-Designs."
+
+#. Author of the plugin/theme
+msgid "Monkey Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://monkey-themes.com/"
+msgstr ""
+
+#~ msgid "If active, show only title and infos on the article on the list."
+#~ msgstr ""
+#~ "Wenn aktiv, zeigen nur Titel und Informationen zu dem Artikel auf der "
+#~ "Liste."
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural ""
+#~ "<span class=\"number\">%1$s</span> thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+#~ msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+#~ msgid ""
+#~ "Space dedicated to copyright positioned in the page footer. To get the "
+#~ "current year must simply write the #current_year tags in the text."
+#~ msgstr ""
+#~ "Platz zum Urheberrecht in der Fußleiste positioniert gewidmet. Um das "
+#~ "aktuelle Jahr muss einfach schreiben die #current_year Tags im Text."
